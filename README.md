@@ -13,5 +13,6 @@ A respository for everything pertaining to crafting concise, explicit, and beaut
 - [Standard Notes: a Note-Taking App with Client-Side Encryption](https://helgeklein.com/blog/standard-notes-note-taking-app-with-client-side-encryption/)
 - [Inkdrop](https://github.com/inkdropapp)
 
-## Cheatsheets
+## Markdown
 - [Noteable Markdown Cheatsheet](https://notable.app/static/pdfs/cheatsheet.pdf)
+- [Markdown elements outlined in the original design document](https://www.markdownguide.org/basic-syntax/#blockquotes-1)
